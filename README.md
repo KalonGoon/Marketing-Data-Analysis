@@ -15,8 +15,6 @@ This was a take-home analytics test analyzing a real marketing dataset. The goal
 - 📆 **CVR spikes every 3rd month** (March, June, September, December) — suggesting seasonal patterns worth modeling with ARIMA
 - 🔁 **Impressions follow a 2-high, 1-low monthly pattern** — average impressions dip below 95,000 every 3rd month vs a baseline of 103,782
 
-> ⚠️ *Dataset is proprietary. Only the R code and analysis report are included in this repo.*
-
 ---
 
 ## 🗂️ Repository Structure
